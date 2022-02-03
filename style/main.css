@@ -46,7 +46,7 @@ header nav a:hover {
 
 .main-film {
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)100%), url('/imgs/peaky-blinders2.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)100%), url('/imgs/peakyblinders2.jpg');
 
     height: 400px;
     background-size: cover;
